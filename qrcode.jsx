@@ -1,5 +1,3 @@
-/** @jsx React.DOM */
-
 var QRCodeComponent = React.createClass({
   propTypes: {
     text: React.PropTypes.string.isRequired,
